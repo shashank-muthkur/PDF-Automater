@@ -1,5 +1,4 @@
 # Author: Shashank Shivakumar Muthkur
-# ASU email: smuthkur@asu.edu
 
 import os
 import glob
@@ -67,3 +66,4 @@ if __name__ == '__main__':
     batch_print_pdfs()
     # Keep the window open for a few seconds to see the final message
     input("Press Enter to exit...")
+
